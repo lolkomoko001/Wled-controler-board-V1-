@@ -1,2 +1,35 @@
-# Wled-controler-board-V1-
-board  controller  
+Well its empty here for now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+booo booo booo
