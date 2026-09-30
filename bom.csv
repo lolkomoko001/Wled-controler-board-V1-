@@ -1,7 +1,0 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-C2,CP_Radial_D10.0mm_P5.00mm,1,470uf,
-C3,C_Disc_D8.0mm_W5.0mm_P5.00mm,1,104,
-F1,Fuseholder_Littelfuse_100_series_5x25mm,1,Fuse,
-R1,R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,1,around 100,
-U1,DIP794W45P254L1930H508Q14,1,SN74AHCT125N,
-U2,MODULE_DEVKIT_V1_ESP32-WROOM-32,1,ESP32-DEVKIT-V1,
