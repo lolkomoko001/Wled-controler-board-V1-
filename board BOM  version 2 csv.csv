@@ -1,7 +1,7 @@
 ﻿Name,Designator,Footprint,Quantity,Value,Price ,Link,Description ,,,,,,,,,,
 CAPACITOR,"C2, C4",CP_Radial_D10.0mm_P5.00mm,2,470uf,0.3€ for  2pcs, https://www.elecom.sk/el-470uf-50v-20--10x16mm-85--c-2/,,,,,,,,,,,
 CAPACITOR ,C3,C_Disc_D8.0mm_W5.0mm_P5.00mm,1,104,0.68€ for 20 pcs  /0.03€for 1pcs,https://allegro.sk/ponuka/kondenzator-100nf-50v-tnt-keramicky-14442968866,,,,,,,,,,,
-FUSE,F1,Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal,1,3A,€1.49 /5pcs,https://www.aliexpress.com/item/1005005482690132.html,quick break F  3A,,,,,,,,,,
+FUSE,F1,Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal,1,?A,€1.49 /5pcs,https://www.aliexpress.com/item/1005005482690132.html,quick break F  value depends on how long are the leds check https://wled-calculator.github.io/,,,,,,,,,,
 SCREW TERMINAL,J1,"TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",2,01x02,0.44 /0.22 per pcs €,https://www.drotik-elektro.sk/arduino-platforma/3208-svorka-na-dps-2-piny-2-54-mm.html,,,,,,,,,,,
 RESISTOR,R1,R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,1,33- 200 Ω,?,?,*1 Ideal value dependson wiring: for loose wiring choose higher valueto fix flickering issues ,,,,,,,,,,
 LEVEL SHIFTER,U1,DIP794W45P254L1930H508Q14,1,SN74AHCT125N,0.84 €,https://eu.mouser.com/en/ProductDetail/Texas-Instruments/SN74AHCT125N?qs=1wQRf3HkBjyxwrHMwAiMfw%3D%3D&utm,,,,,,,,,,,
