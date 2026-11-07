@@ -63,3 +63,4 @@ if not it could fry the board ask how I know :D
 <img width="876" height="732" alt="image" src="https://github.com/user-attachments/assets/535f0b9a-9bd2-4137-a34c-606a8891d102" />
 <img width="851" height="602" alt="image" src="https://github.com/user-attachments/assets/0baaabb9-34db-43ad-a07f-47b8a0d783b4" />
 <img width="1724" height="930" alt="image" src="https://github.com/user-attachments/assets/81f4fe11-e641-4881-80a3-db7f4484900b" />
+<img width="1293" height="581" alt="image" src="https://github.com/user-attachments/assets/5050afaa-ea9d-4003-ae6e-62a182a7489e" />
