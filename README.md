@@ -56,6 +56,10 @@ if not it could fry the board don't ask how I know :D
 
 (ilustrative) 
 
+
+# Finally
+Install official software from this website  https://install.wled.me/
+
 ---
 ### Some more photos :))
 <img width="1203" height="650" alt="Screenshot 2026-11-07 191113" src="https://github.com/user-attachments/assets/0d662552-3b08-426b-80f2-e833a0b07852" />
