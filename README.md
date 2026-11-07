@@ -1,11 +1,27 @@
+# Welcome,
+## this is Wled software controller board 
+<img width="1085" height="746" alt="Screenshot 2026-11-07 191019" src="https://github.com/user-attachments/assets/dc67419a-725f-42bd-90c5-86dea666f8f3" />
 
-Welcome, 
-this is the latest look of my project, Wled board controler. It features esp 32 devkit 1  and  buffer  SN74AHCT125N and some caps, ...
+### Pretty easy to operate: 
+You just need to buy all parts from the BOM list  and order the pcb board. 
 
-you can get the  firmware at this website https://install.wled.me/
+for 5 Volts leds 
+find working  5V DC power suplly and conect to screw terminals  
+<img width="1203" height="817" alt="5V wiring" src="https://github.com/user-attachments/assets/1bfc87a5-99f9-46d3-ab48-5812c58faeb7" />
+<img width="1541" height="1033" alt="5V wiring full" src="https://github.com/user-attachments/assets/5be6b3d3-b064-4fad-8380-8652ce3a029c" />
 
-<img width="808" height="616" alt="Screenshot 2026-09-30 201044" src="https://github.com/user-attachments/assets/5b4a59aa-7b9a-41e5-bc65-57f8b706cca6" />
-<img width="997" height="745" alt="Screenshot 2026-09-30 201133" src="https://github.com/user-attachments/assets/3496ec31-49bb-43d8-93b2-8375e8464ab4" />
-<img width="1017" height="600" alt="Screenshot 2026-09-30 201525" src="https://github.com/user-attachments/assets/9d21e15d-10d6-4cc6-8a15-56df4d669528" />
-<img width="987" height="781" alt="Screenshot 2026-09-30 210459" src="https://github.com/user-attachments/assets/9876e553-aedf-49c5-bc66-b615688542ad" />
-<img width="1286" height="627" alt="Screenshot 2026-09-30 213052" src="https://github.com/user-attachments/assets/a7c08859-92e5-4773-a391-55b55cdab0fe" />
+
+
+
+
+
+
+
+
+
+
+
+
+### Made from this  schematics 
+  <img width="1203" height="650" alt="Screenshot 2026-11-07 191113" src="https://github.com/user-attachments/assets/0d662552-3b08-426b-80f2-e833a0b07852" />
+
