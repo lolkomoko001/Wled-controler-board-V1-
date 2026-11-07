@@ -3,7 +3,7 @@
 <br> 
 <br> 
 
-## this is Wled software controller board  for addressable led strip  
+## This is Wled software controller board  for addressable led strip  
 <img width="1085" height="746" alt="Screenshot 2026-11-07 191019" src="https://github.com/user-attachments/assets/dc67419a-725f-42bd-90c5-86dea666f8f3" />
 
 ### Pretty easy to operate: 
@@ -49,7 +49,7 @@ I have this https://www.aliexpress.com/item/1005004141251024.html
 # But before connecting the board  check output voltage at the buck converter  with multimeter it should output 5 V if not rotate the rotary encoder till its 5V !!
 <br>
 <br>
-if not it could fry the board ask how I know :D 
+if not it could fry the board don't ask how I know :D 
 <br>
 <img width="966" height="606" alt="image" src="https://github.com/user-attachments/assets/98a73d12-e2bd-443f-9291-46fb37f6c227" />
 <br>
@@ -58,8 +58,8 @@ if not it could fry the board ask how I know :D
 
 ---
 ### Some more photos :))
-  <img width="1203" height="650" alt="Screenshot 2026-11-07 191113" src="https://github.com/user-attachments/assets/0d662552-3b08-426b-80f2-e833a0b07852" />
-   <img width="1085" height="746" alt="Screenshot 2026-11-07 191019" src="https://github.com/user-attachments/assets/85a23132-d8a5-4de2-b179-445a20be9805" />
+<img width="1203" height="650" alt="Screenshot 2026-11-07 191113" src="https://github.com/user-attachments/assets/0d662552-3b08-426b-80f2-e833a0b07852" />
+<img width="1085" height="746" alt="Screenshot 2026-11-07 191019" src="https://github.com/user-attachments/assets/85a23132-d8a5-4de2-b179-445a20be9805" />
 <img width="876" height="732" alt="image" src="https://github.com/user-attachments/assets/535f0b9a-9bd2-4137-a34c-606a8891d102" />
 <img width="851" height="602" alt="image" src="https://github.com/user-attachments/assets/0baaabb9-34db-43ad-a07f-47b8a0d783b4" />
 <img width="1724" height="930" alt="image" src="https://github.com/user-attachments/assets/81f4fe11-e641-4881-80a3-db7f4484900b" />
