@@ -2432,17 +2432,55 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 73.66 68.58)
+		(end 101.6 88.9)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "53fd1aa7-ab02-4851-9d1b-1b3e6a491729")
+	)
+	(rectangle
+		(start 143.51 52.07)
+		(end 177.8 73.66)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5731ba5a-fef1-486f-b8b6-21ee1d02e458")
+	)
+	(text "5V input "
+		(exclude_from_sim no)
+		(at 171.196 56.388 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "97f22d61-9fc2-42f2-a0e5-2da3f0ff6e92")
+	)
+	(text "5V output to led strip \nonly for 5V strip led "
+		(exclude_from_sim no)
+		(at 86.614 85.852 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "994d496c-4823-4ab4-be35-5b43e41697ca")
+	)
 	(junction
 		(at 191.77 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "080953e1-98a0-42fd-8ed9-84f60ecdd8b0")
-	)
-	(junction
-		(at 189.23 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1c0e5650-2685-43a5-8b1d-03c6cd63f8af")
 	)
 	(junction
 		(at 224.79 143.51)
@@ -2455,6 +2493,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "34451f4c-bbaf-4846-9a77-725fc129ea52")
+	)
+	(junction
+		(at 107.95 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40697a4d-d70e-4888-95ba-91c07b62b19c")
 	)
 	(junction
 		(at 114.3 91.44)
@@ -2524,6 +2568,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 78.74) (xy 93.98 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c92c176-11ea-4fd0-b3df-9484bf117da6")
+	)
+	(wire
+		(pts
 			(xy 171.45 115.57) (xy 191.77 115.57)
 		)
 		(stroke
@@ -2564,7 +2618,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 67.31) (xy 121.92 64.77)
+			(xy 151.13 63.5) (xy 151.13 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2624,6 +2678,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 91.44) (xy 114.3 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d8eb20b-0f00-4b6a-a16c-ff8d9bdeedfe")
+	)
+	(wire
+		(pts
 			(xy 246.38 109.22) (xy 243.84 113.03)
 		)
 		(stroke
@@ -2651,6 +2715,26 @@
 			(type default)
 		)
 		(uuid "68c6ddf4-d870-4e6d-a428-b2383a188f5a")
+	)
+	(wire
+		(pts
+			(xy 105.41 91.44) (xy 107.95 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "718f2875-4bf2-4f88-9672-d9bdd2558dd8")
+	)
+	(wire
+		(pts
+			(xy 90.17 80.01) (xy 90.17 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "732d6976-cebc-4178-8093-612c4289a372")
 	)
 	(wire
 		(pts
@@ -2704,16 +2788,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 127) (xy 189.23 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90d789da-50e0-46a9-abe7-7d9ff8faff6d")
-	)
-	(wire
-		(pts
 			(xy 163.83 92.71) (xy 157.48 92.71)
 		)
 		(stroke
@@ -2734,17 +2808,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 91.44) (xy 114.3 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9aa6987c-c563-467b-ba2e-da3bab9fe189")
-	)
-	(wire
-		(pts
-			(xy 121.92 64.77) (xy 124.46 64.77)
+			(xy 151.13 60.96) (xy 153.67 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2824,7 +2888,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 63.5) (xy 119.38 67.31)
+			(xy 148.59 59.69) (xy 148.59 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2834,13 +2898,33 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 127) (xy 189.23 127)
+			(xy 105.41 82.55) (xy 105.41 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9967132-3dd5-4212-827f-7ab00f3772fd")
+	)
+	(wire
+		(pts
+			(xy 185.42 127) (xy 191.77 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "dcb70f35-ea72-4c0d-856e-9a4800e796fe")
+	)
+	(wire
+		(pts
+			(xy 90.17 82.55) (xy 105.41 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddc4e465-342b-4acd-9536-9d760088e9e0")
 	)
 	(wire
 		(pts
@@ -2871,16 +2955,6 @@
 			(type default)
 		)
 		(uuid "f8f886a9-6b3a-4e5f-b086-c32c913c0ae9")
-	)
-	(wire
-		(pts
-			(xy 189.23 127) (xy 191.77 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbc2ae1e-37f8-426c-a724-844680f1b142")
 	)
 	(wire
 		(pts
@@ -3132,6 +3206,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 189.23 113.03 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3bae63fd-5d85-4516-8799-baa76b046d8c")
+		(property "Reference" "#PWR03"
+			(at 182.88 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.42 113.0299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 189.23 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 189.23 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "282f974f-3167-492a-a58f-d4e75cbe7e9b")
+		)
+		(instances
+			(project "stardance wled board"
+				(path "/1c1a62e5-a231-407c-8159-d446bcc73a6b"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 111.76 82.55 0)
 		(unit 1)
@@ -3291,7 +3444,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 121.92 72.39 270)
+		(at 151.13 68.58 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3302,7 +3455,7 @@
 		(fields_autoplaced yes)
 		(uuid "797b24ff-7f2c-4645-8151-e0f7f957d5af")
 		(property "Reference" "J1"
-			(at 124.46 71.1199 90)
+			(at 153.67 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3313,7 +3466,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 124.46 73.6599 90)
+			(at 153.67 69.8499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3324,7 +3477,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal"
-			(at 121.92 72.39 0)
+			(at 151.13 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3335,7 +3488,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 72.39 0)
+			(at 151.13 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3346,7 +3499,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 121.92 72.39 0)
+			(at 151.13 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3529,7 +3682,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 119.38 63.5 0)
+		(at 148.59 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3540,7 +3693,7 @@
 		(fields_autoplaced yes)
 		(uuid "97aefab4-c17c-48a4-b648-27832e8a0322")
 		(property "Reference" "#PWR04"
-			(at 119.38 67.31 0)
+			(at 148.59 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3551,7 +3704,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 119.38 58.42 0)
+			(at 148.59 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3561,7 +3714,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 63.5 0)
+			(at 148.59 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3572,7 +3725,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 63.5 0)
+			(at 148.59 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3583,7 +3736,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 119.38 63.5 0)
+			(at 148.59 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4396,6 +4549,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 85.09 82.55 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dad40d8a-19e2-42c5-ac92-02aa73c69980")
+		(property "Reference" "J2"
+			(at 85.09 73.66 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 85.09 76.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal"
+			(at 85.09 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 85.09 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e377e47a-ad00-4c26-b001-aa97d1b25604")
+		)
+		(pin "2"
+			(uuid "8d5126b5-151b-41f4-99cd-050063707e6e")
+		)
+		(instances
+			(project "stardance wled board"
+				(path "/1c1a62e5-a231-407c-8159-d446bcc73a6b"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 246.38 106.68 0)
 		(unit 1)
@@ -4476,7 +4709,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 124.46 64.77 90)
+		(at 93.98 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4485,9 +4718,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f19aed7e-c401-41e8-af87-896cae671316")
-		(property "Reference" "#PWR011"
-			(at 130.81 64.77 0)
+		(uuid "ee0e6017-c4df-4da4-a19d-79aa27da07be")
+		(property "Reference" "#PWR013"
+			(at 100.33 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4498,7 +4731,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 128.27 64.7699 90)
+			(at 97.79 78.7399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4509,7 +4742,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 64.77 0)
+			(at 93.98 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4520,7 +4753,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 64.77 0)
+			(at 93.98 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4531,7 +4764,86 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 124.46 64.77 0)
+			(at 93.98 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0f195e75-6740-4f3f-a06a-9e25831ddb1a")
+		)
+		(instances
+			(project "stardance wled board"
+				(path "/1c1a62e5-a231-407c-8159-d446bcc73a6b"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 153.67 60.96 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f19aed7e-c401-41e8-af87-896cae671316")
+		(property "Reference" "#PWR011"
+			(at 160.02 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 157.48 60.9599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 153.67 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
