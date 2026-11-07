@@ -9,7 +9,7 @@
 ### Pretty easy to operate: 
 You just need to buy all parts from the BOM list  and order the pcb board and connect few wires :)
 
-##  for 5 Volts addressable leds 
+##  For 5 Volts addressable leds 
 find working  5V DC power suplly and conect to screw terminals 
 
 The bottom  terminal are for powering  addressable led strip. 
