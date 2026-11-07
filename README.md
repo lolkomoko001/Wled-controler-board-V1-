@@ -39,15 +39,27 @@ If we want to push their  current from these we will need some type of cooling  
 <br>
 
 You will conect  it like this.
+<br>
+IF you have use the shielding cable for better noise resistance.
+<br>
+#### I have 2 wires in my cable so one is for data (red) and and connect the foil to other  unused  wire only to one end and wire it to small hole near signal pad.  !! 
+<br>
+I have this https://www.aliexpress.com/item/1005004141251024.html
+<br>
 # But before connecting the board  check output voltage at the buck converter  with multimeter it should output 5 V if not rotate the rotary encoder till its 5V !!
+<br>
 <br>
 if not it could fry the board ask how I know :D 
 <br>
 <img width="966" height="606" alt="image" src="https://github.com/user-attachments/assets/98a73d12-e2bd-443f-9291-46fb37f6c227" />
 <br>
-(ilustrative)
+
+(ilustrative) 
 
 ---
 ### Some more photos :))
   <img width="1203" height="650" alt="Screenshot 2026-11-07 191113" src="https://github.com/user-attachments/assets/0d662552-3b08-426b-80f2-e833a0b07852" />
+   <img width="1085" height="746" alt="Screenshot 2026-11-07 191019" src="https://github.com/user-attachments/assets/85a23132-d8a5-4de2-b179-445a20be9805" />
+<img width="876" height="732" alt="image" src="https://github.com/user-attachments/assets/535f0b9a-9bd2-4137-a34c-606a8891d102" />
 
+<img width="1724" height="930" alt="image" src="https://github.com/user-attachments/assets/81f4fe11-e641-4881-80a3-db7f4484900b" />
