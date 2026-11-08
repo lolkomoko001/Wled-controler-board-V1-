@@ -68,4 +68,6 @@ Install official software from this website  https://install.wled.me/
 <img width="851" height="602" alt="image" src="https://github.com/user-attachments/assets/0baaabb9-34db-43ad-a07f-47b8a0d783b4" />
 <img width="1724" height="930" alt="image" src="https://github.com/user-attachments/assets/81f4fe11-e641-4881-80a3-db7f4484900b" />
 <img width="1293" height="581" alt="image" src="https://github.com/user-attachments/assets/5050afaa-ea9d-4003-ae6e-62a182a7489e" />
-This is the cost to make the board and assembly  components C2,C4, and 
+This is the cost to make the board and assembly  components C2,C4, and U1, 
+<br>
+I picked  black silkscreen and hasl lead free. everything other is the cheapest  
